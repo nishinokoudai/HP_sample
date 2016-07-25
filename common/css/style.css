@@ -1,12 +1,16 @@
+.logo-1 {
+    position: relative;left: 5%;top: 0px;
+}
+
 button.button_01 {
     border-radius: 15px;
     border: 1px solid #333;
     background-color: #33CC33;
     color: #fff;
-    font-size: 1.2em;
+    font-size: 0.8em;
     font-weight: bold;
     padding: 8px 20px;
-    position: relative;left: 50%;top: 10px;
+    position: relative;left: 0%;top: 0px;
 
 }
 button.button_01:hover {
@@ -16,16 +20,15 @@ button.button_01:hover {
 
 
 
-
 button.button_02 {
     border-radius: 15px;
     border: 1px solid #333;
     background-color: #008000;
     color: #fff;
-    font-size: 1.2em;
+    font-size: 0.8em;
     font-weight: bold;
     padding: 8px 20px;
-    position: relative;left: 50%;top: 10px;
+    position: relative;left: 0%;top: 0px;
 }
 button.button_02:hover {
 	opacity: 0.8;
@@ -34,15 +37,14 @@ button.button_02:hover {
 
 
 
-
 button.button_03 {
     border-radius: 15px;
     border: 1px solid #333;
     color: #fff;
-    font-size: 1.2em;
+    font-size: 0.8em;
     font-weight: bold;
     padding: 8px 20px;
-    position: relative;left: 50%;top: 10px;
+    position: relative;left: 0%;top: 0px;
 }
 button.button_03:hover {
 	opacity: 0.8;
