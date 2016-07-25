@@ -1,14 +1,50 @@
 button.button_01 {
-    font-size: 1.4em;
-    font-weight: bold;
-    padding: 10px 30px;
-    color: #fff;
     border-radius: 15px;
     border: 1px solid #333;
+    background-color: #33CC33;
+    color: #fff;
+    font-size: 1.2em;
+    font-weight: bold;
+    padding: 8px 20px;
+    position: relative;left: 50%;top: 10px;
+
+}
+button.button_01:hover {
+	opacity: 0.8;
+	transition: 0.3s; 
 }
 
 
-button.button_01:hover {
-	transition: 0.3s; 
+
+
+button.button_02 {
+    border-radius: 15px;
+    border: 1px solid #333;
+    background-color: #008000;
+    color: #fff;
+    font-size: 1.2em;
+    font-weight: bold;
+    padding: 8px 20px;
+    position: relative;left: 50%;top: 10px;
+}
+button.button_02:hover {
 	opacity: 0.8;
+	transition: 0.3s; 
+}
+
+
+
+
+button.button_03 {
+    border-radius: 15px;
+    border: 1px solid #333;
+    color: #fff;
+    font-size: 1.2em;
+    font-weight: bold;
+    padding: 8px 20px;
+    position: relative;left: 50%;top: 10px;
+}
+button.button_03:hover {
+	opacity: 0.8;
+	transition: 0.3s; 
 }
